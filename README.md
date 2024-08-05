@@ -46,9 +46,10 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 
 ## 📈 GitHub Stats
 
-![JnJuste's GitHub stats](https://github-readme-stats.vercel.app/api?username=JnJuste&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JnJuste&show_icons=true&theme=radical" alt="JnJuste's GitHub stats" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&layout=compact&theme=radical" alt="Most Used Languages" style="width: 45%;"/>
+</div>
 
 ## 🌱 What I'm Currently Learning
 
@@ -63,7 +64,7 @@ I'm currently diving deeper into:
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jn-juste-irakoze)
-[![Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/jnjuste07)
 
 ## 🏆 GitHub Trophies
