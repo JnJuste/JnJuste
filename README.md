@@ -13,10 +13,21 @@ Welcome to my GitHub profile! I'm a software engineer and developer based in Kig
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
 
-- **Frameworks & Libraries**:  
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
+  ![JSP](https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=white&style=flat-square)
+
+- **Frontend**:  
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+  ![Oracle](https://img.shields.io/badge/-Oracle%20XE-F80000?logo=oracle&logoColor=white&style=flat-square)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
@@ -45,9 +56,9 @@ I'm currently diving deeper into:
 
 ## 📫 How to Reach Me
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [LinkedIn](https://www.linkedin.com/in/jn-juste-irakoze)
-- ![Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat-square) [Website](https://jjirakoze.netlify.app)
-- ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square) [Twitter](https://twitter.com/jnjuste07)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jn-juste-irakoze)
+[![Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/jnjuste07)
 
 ## 🏆 GitHub Trophies
 
