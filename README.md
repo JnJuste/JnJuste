@@ -1,14 +1,23 @@
 # Hi there, I'm JnJuste! 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/120658134?s=400&u=231d47d1f7a0b16ad7c446b93c087cb081b64e7f&v=4) <!-- Replace with your own image URL -->
+![Profile Banner](https://avatars.githubusercontent.com/u/120658134?s=400&u=231d47d1f7a0b16ad7c446b93c087cb081b64e7f&v=4)
 
 Welcome to my GitHub profile! I'm a software developer based in Kigali, Rwanda, passionate about working with Big Data and developing innovative solutions.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, C#, Java, HTML
-- **Frameworks & Libraries**: Spring MVC
-- **Tools**: Git, Visual Studio
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square)
+
+- **Frameworks & Libraries**:  
+  ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=white&style=flat-square)
+
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
 
 ## 📈 GitHub Stats
 
@@ -49,5 +58,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-<!-- Footer -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JnJuste.JnJuste) <!-- Optional: You can remove this if you don't want to track visitors -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JnJuste.JnJuste)
