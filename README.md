@@ -1,6 +1,6 @@
 # Hi there, I'm [Jean Juste IRAKOZE](https://jjirakoze.netlify.app)! 👋
 
-![Profile Banner](https://example.com/black-bear-image.png) <!-- Replace with a real image URL of a black bear -->
+![Profile Banner](https://images.unsplash.com/photo-1597700942508-b3f2300d399e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGJsYWNrJTIwYmVhcnxlbnwwfHx8fDE2ODc5Mzk1MjY&ixlib=rb-1.2.1&q=80&w=1080) <!-- Image from Unsplash -->
 
 Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
 
@@ -46,10 +46,11 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JnJuste&show_icons=true&theme=radical" alt="JnJuste's GitHub stats" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&layout=compact&theme=radical" alt="Most Used Languages" style="width: 45%;"/>
-</div>
+<a href="https://github.com/JnJuste">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnJuste&count_private=true&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
+</a>
+<br/>
 
 ## 🌱 What I'm Currently Learning
 
@@ -64,7 +65,7 @@ I'm currently diving deeper into:
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jn-juste-irakoze)
-[![Website](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/jnjuste07)
 
 ## 🏆 GitHub Trophies
