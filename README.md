@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
   ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-000000?logo=codeblocks&logoColor=white&style=flat-square)
