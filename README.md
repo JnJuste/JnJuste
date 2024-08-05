@@ -1,6 +1,6 @@
 # Hi there, I'm [Jean Juste IRAKOZE](https://jjirakoze.netlify.app)! 👋
 
-![Profile Banner](https://images.unsplash.com/photo-1597700942508-b3f2300d399e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGJsYWNrJTIwYmVhcnxlbnwwfHx8fDE2ODc5Mzk1MjY&ixlib=rb-1.2.1&q=80&w=1080) <!-- Image from Unsplash -->
+![Profile Banner](https://github.com/JnJuste/JnJuste/raw/main/bearResolve.jpg) 
 
 Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
 
