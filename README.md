@@ -1,8 +1,8 @@
-# Hi there, I'm JnJuste! 👋
+# Hi there, I'm Jean Juste IRAKOZE! 👋
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/120658134?s=400&u=231d47d1f7a0b16ad7c446b93c087cb081b64e7f&v=4)
 
-Welcome to my GitHub profile! I'm a software developer based in Kigali, Rwanda, passionate about working with Big Data and developing innovative solutions.
+Welcome to my GitHub profile! I'm a software engineer and developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
 
 ## 🔧 Technologies & Tools
 
@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a software developer based in Kigali, Rwanda, 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
+  ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-000000?logo=codeblocks&logoColor=white&style=flat-square)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 
 ## 📈 GitHub Stats
 
