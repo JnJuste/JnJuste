@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 - **Languages**:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square)  
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
