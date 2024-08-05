@@ -1,8 +1,8 @@
-# Hi there, I'm Jean Juste Irakoze! 👋
+# Hi there, I'm [Jean Juste IRAKOZE](https://jjirakoze.netlify.app)! 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/120658134?s=400&u=231d47d1f7a0b16ad7c446b93c087cb081b64e7f&v=4)
+![Profile Banner](https://example.com/black-bear-image.png) <!-- Replace with a real image URL of a black bear -->
 
-Welcome to my GitHub profile! I'm a software engineer and developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
+Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
 
 ## 🔧 Technologies & Tools
 
@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a software engineer and developer based in Kig
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
@@ -22,6 +21,9 @@ Welcome to my GitHub profile! I'm a software engineer and developer based in Kig
 
 - **Frontend**:  
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
 
 - **Databases**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -46,13 +48,17 @@ Welcome to my GitHub profile! I'm a software engineer and developer based in Kig
 
 ![JnJuste's GitHub stats](https://github-readme-stats.vercel.app/api?username=JnJuste&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&layout=compact&theme=radical)
+
 ## 🌱 What I'm Currently Learning
 
 I'm currently diving deeper into:
 
 - Advanced Data Analytics
+- Mobile development
 - Spring Framework
 - Modern web development techniques
+- Agile Software Development LifeCycle
 
 ## 📫 How to Reach Me
 
