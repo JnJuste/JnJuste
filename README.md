@@ -52,6 +52,8 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 </a>
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 ## 🌱 What I'm Currently Learning
 
 I'm currently diving deeper into:
