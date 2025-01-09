@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 - **Backend**:  
@@ -20,7 +19,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
   ![JSP](https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=white&style=flat-square)
 
 - **Frontend**:  
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -29,7 +27,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
   ![Oracle](https://img.shields.io/badge/-Oracle%20XE-F80000?logo=oracle&logoColor=white&style=flat-square)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
@@ -37,7 +34,6 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
   ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-000000?logo=codeblocks&logoColor=white&style=flat-square)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 
 - **Operating Systems & Scripting**:
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
@@ -59,8 +55,8 @@ Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kig
 I'm currently diving deeper into:
 
 - Advanced Data Analytics
-- Mobile development
-- Spring Framework
+- Software Testing Methodologies
+- Spring and Django Framework
 - Modern web development techniques
 - Agile Software Development LifeCycle
 
