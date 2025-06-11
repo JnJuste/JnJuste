@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/JnJuste/JnJuste/raw/main/bearResolve.jpg) 
 
-Welcome to my GitHub profile! I'm a Software Engineer and Developer based in Kigali, Rwanda, with a focus on full-stack development and mobile app development. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
+Welcome to my GitHub profile! I'm a Software Engineer/Developer and Software Tester based in Kigali, Rwanda, with a focus on backend development and assessing the quality of software to reduce the risk in its operational environment. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
 
 ## 🔧 Technologies & Tools
 
