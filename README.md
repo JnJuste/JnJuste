@@ -1,6 +1,6 @@
 # Hi there, I'm **IRAKOZE**! 👋
 
-Software Engineer & Test Enginner; leveraging a background in the airline industry to build reliable, high-quality backend systems with Java, Python, and PostgreSQL. Dedicated to minimizing operational risk through meticulous software testing and modern tech stacks.
+Software Engineer & Test Engineer; leveraging a background in the airline industry to build reliable, high-quality backend systems with Java, Python, and PostgreSQL. Dedicated to minimizing operational risk through meticulous software testing and modern tech stacks.
 
 ## 🔧 Technologies & Tools
 
