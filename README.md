@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, 
 
 - **Languages**:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -33,19 +32,14 @@ Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
-  ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-000000?logo=codeblocks&logoColor=white&style=flat-square)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/JnJuste">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnJuste&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+
 </div>
 
 ## 🌱 What I'm Currently Learning
@@ -53,23 +47,12 @@ Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, 
 I'm currently diving deeper into:
 
 - Advanced Data Analytics
-- Software Testing Methodologies
-- Spring and Django Framework
-- Modern web development techniques
-- Agile Software Development LifeCycle
+- PlayWright Framework
+- Kafka and RabbitMQ for events queues
 
-## 📫 How to Reach Me
+# 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jn-juste-irakoze)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/jnjuste07)
-
-## 🤝 Let's Connect!
-
-Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project.
+📬 [jeanjusteirakoze@proton.me](mailto:jeanjusteirakoze@proton.me)  
+📬 [jeanjusteirakoze@gmail.com](mailto:jeanjusteirakoze@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JnJuste.JnJuste" alt="Visitor Count" />
-</div>
