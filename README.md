@@ -1,8 +1,6 @@
-# Hi there, I'm [Jean Juste IRAKOZE](https://jjirakoze.netlify.app)! 👋
+# Hi there, I'm **IRAKOZE**! 👋
 
-![Profile Banner](https://github.com/JnJuste/JnJuste/raw/main/bearResolve.jpg) 
-
-Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, with a background in the airline industry. I am skilled in Java, Python, JavaScript, C, PostgreSQL, and Software Testing. Proactive and detail-oriented, I am committed to delivering high-quality, reliable software solutions while staying aligned with modern technology stacks and evolving tech ecosystems. My primary focus is on backend development and assessing software quality to minimize operational risks.
+Software Engineer & Test Enginner; leveraging a background in the airline industry to build reliable, high-quality backend systems with Java, Python, and PostgreSQL. Dedicated to minimizing operational risk through meticulous software testing and modern tech stacks.
 
 ## 🔧 Technologies & Tools
 
