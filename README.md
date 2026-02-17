@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/JnJuste/JnJuste/raw/main/bearResolve.jpg) 
 
-Welcome to my GitHub profile! I'm a Software Engineer/Developer and Software Tester based in Kigali, Rwanda, with a focus on backend development and assessing the quality of software to reduce the risk in its operational environment. I have a passion for creating efficient, innovative solutions, and I'm experienced in various programming languages and frameworks.
+Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, with a background in the airline industry. I am skilled in Java, Python, JavaScript, C, PostgreSQL, and Software Testing. Proactive and detail-oriented, I am committed to delivering high-quality, reliable software solutions while staying aligned with modern technology stacks and evolving tech ecosystems. My primary focus is on backend development and assessing software quality to minimize operational risks.
 
 ## 🔧 Technologies & Tools
 
@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a Software Engineer/Developer and Software Tes
   ![JSP](https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=white&style=flat-square)
 
 - **Frontend**:  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 - **Databases**:  
@@ -35,20 +35,18 @@ Welcome to my GitHub profile! I'm a Software Engineer/Developer and Software Tes
   ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
   ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-000000?logo=codeblocks&logoColor=white&style=flat-square)
 
-- **Operating Systems & Scripting**:
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-  ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
-
 ## 📈 GitHub Stats
 
-<a href="https://github.com/JnJuste">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnJuste&count_private=true&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact" />
-</a>
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/JnJuste">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnJuste&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnJuste&count_private=true&theme=dracula&langs_count=8&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" />
+  </a>
+  <br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## 🌱 What I'm Currently Learning
 
@@ -66,31 +64,12 @@ I'm currently diving deeper into:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white&style=flat-square)](https://jjirakoze.netlify.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/jnjuste07)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JnJuste&theme=dracula&no-bg=true&no-frame=true)
-
-## 🚀 Featured Projects
-
-### [HeavenCoffeeMS](https://github.com/JnJuste/HeavenCoffeeMS)
-A Spring Boot application for managing coffee shop operations, enhancing efficiency and service delivery.
-
-### [RiddleChallengeSystem](https://github.com/JnJuste/RiddleChallengeSystem)
-An interactive C# application designed to engage users with challenging riddles and puzzles.
-
-### [studentMIS_JSP](https://github.com/JnJuste/studentMIS_JSP)
-A Student Management Information System using JavaServer Pages, focusing on managing teacher-student modules, courses, and semesters.
-
-### [SmartHomeMonitoringApp](https://github.com/JnJuste/SmartHomeMonitoringApp)
-A mobile app developed with Flutter for monitoring and managing smart home devices.
-
-### [Fitness Management App](https://github.com/JnJuste/FitnessManagementApp)
-An application for managing fitness activities using JDBC and Hibernate to ensure data persistence and efficient management.
-
 ## 🤝 Let's Connect!
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project.
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JnJuste.JnJuste)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JnJuste.JnJuste" alt="Visitor Count" />
+</div>
