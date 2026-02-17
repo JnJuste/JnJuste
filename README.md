@@ -36,10 +36,7 @@ Welcome to my GitHub profile! I am a Software Engineer based in Kigali, Rwanda, 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-
+  <img src="https://streak-stats.demolab.com?user=JnJuste&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌱 What I'm Currently Learning
