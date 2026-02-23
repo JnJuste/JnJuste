@@ -5,27 +5,32 @@ Software Engineer & Test Engineer; leveraging a background in the airline indust
 ## 🔧 Technologies & Tools
 
 - **Languages**:
+
   ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 - **Backend**:
+
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
   ![JSP](https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=white&style=flat-square)
 
-- **Frontend**:  
+- **Frontend**:
+  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-- **Databases**:  
+- **Databases**:
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
   ![Oracle](https://img.shields.io/badge/-Oracle%20XE-F80000?logo=oracle&logoColor=white&style=flat-square)
 
-- **Tools**:  
+- **Tools**:
+  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
